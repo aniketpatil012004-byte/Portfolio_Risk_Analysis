@@ -30,7 +30,7 @@ The analysis is based on a weighted portfolio consisting of the following major 
 ## 📈 Results
 The simulation outputs a distribution of potential profits and losses. The **Value at Risk (VaR)** is marked to show the "danger zone" (the worst-case scenarios).
 
-*(You can upload a screenshot of your histogram here later!)*
+
 
 ## 🚀 How to Run
 1.  Clone the repository:
